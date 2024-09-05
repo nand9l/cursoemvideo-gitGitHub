@@ -1,2 +1,2 @@
 # cursoemvideo-html5
- Material do Curso de HTML e CSS  
+ Material do Curso de Git e GitHub  
